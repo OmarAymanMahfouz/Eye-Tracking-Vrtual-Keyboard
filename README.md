@@ -2,7 +2,7 @@ Eye-Tracking Virtual Keyborad
 =============================
 Was created with the help of 
 [Ahmed Hafez](https://github.com/AhmedHafez98)
-[Omar Ayman](https://github.com/OmarAymanMahfouz)
+[Omar Ayman](https://github.com/AbdelrahmanElhawary)
 [Moamon Ahmed](https://github.com/MoamenAhmedMostafa)
 
 Software description
