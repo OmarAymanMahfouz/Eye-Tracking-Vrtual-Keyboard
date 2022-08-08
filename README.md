@@ -54,6 +54,7 @@ In [Controller.py](https://github.com/AhmedHafez98/EyeTracker/blob/master/Contro
 * connect to word prediction
 * connect to mouse
 * control Mouse Tracker
+
 © 2020 GitHub, Inc.
 Terms
 Privacy
